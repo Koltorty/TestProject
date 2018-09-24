@@ -1,0 +1,6 @@
+C:\Users\Саша\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Саша\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Саша\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Саша\Documents\Visual Studio 2017\Projects\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Documents\Visual Studio 2017\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Саша\Documents\Visual Studio 2017\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
